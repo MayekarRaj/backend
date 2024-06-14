@@ -1,0 +1,6 @@
+{
+    "service": "gmail",
+    "user": "your-email-address",
+    "password": "your-email-password",
+    "from": "noreply@gmail.com" 
+}   
